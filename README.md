@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Fhanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=brxnya&show_icons=true&title_color=ffffff&icon_color=444444&text_color=8efddd&bg_color=64fbe3,3febcf,2cd5ba,1ab89f,0ba58c)
+![Fhanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=brxnya&show_icons=true&title_color=ffffff&icon_color=444444&text_color=8efddd&bg_color=64fbe3,3febcf,2cd5ba,1ab89f,0ba58c)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brxnya&layout=compact&&title_color=ffffff&icon_color=444444&text_color=8efddd&bg_color=64fbe3,3febcf,2cd5ba,1ab89f,0ba58c)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brxnya&layout=compact&&title_color=ffffff&icon_color=444444&text_color=8efddd&bg_color=64fbe3,3febcf,2cd5ba,1ab89f,0ba58c)](https://github.com/anuraghazra/github-readme-stats)
+
 
