@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Codewars-aqua?style=flat-square&logo=codewars&logoColor=black"/>
   <img src="https://img.shields.io/badge/Arduino-aqua?style=flat-square&logo=Arduino&logoColor=black"/>
   <img src="https://img.shields.io/badge/Apache%20Spark-aqua?style=flat-square&logo=apachespark&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PythonAnywhere-aqua?style=flat-square&logo=pythonanywhere&logoColor=black"/>
 </h2>
 
 <h3 align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brxnya&layout=compact&&title_color=ffffff&icon_color=444444&text_color=8efddd&bg_color=64fbe3,3febcf,2cd5ba,1ab89f,0ba58c"/></h3>
