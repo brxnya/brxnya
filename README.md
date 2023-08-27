@@ -15,9 +15,6 @@
   <img src="https://img.shields.io/badge/Git-aqua?style=flat-square&logo=git&logoColor=black"/>
   <img src="https://img.shields.io/badge/Codewars-aqua?style=flat-square&logo=codewars&logoColor=black"/>
   <img src="https://img.shields.io/badge/Arduino-aqua?style=flat-square&logo=Arduino&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-aqua?style=flat-square&logo=docker&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Django-aqua?style=flat-square&logo=django&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flask-aqua?style=flat-square&logo=flask&logoColor=black"/>
   <img src="https://img.shields.io/badge/Apache%20Spark-aqua?style=flat-square&logo=apachespark&logoColor=black"/>
 </h2>
 
